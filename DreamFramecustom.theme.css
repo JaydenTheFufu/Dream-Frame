@@ -4,7 +4,7 @@
 @import url("https://raw.githack.com/dream-frame/Dream-Frame/master/Raw/raw.css");
 :root {
     /* Background */
-    --custombackground: url(https://source.unsplash.com/random); /* Change the background */
+    --custombackground: url(https://i.imgur.com/urAB8J2.jpg); !important/* Change the background */
     --blur: 0px !important; /* Adjust the amount of blur on the background */
     --opacitybg: 0.5 !important; /* Change the transparency of the background. This is what controls the black overlay that is over the background */
     --opacityDiscord: 0.7 !important; /* Try removing your custom background and enable Transparency in BandagedBD settings. Also adjust opacitybg to 0 */
@@ -49,9 +49,9 @@
     /* Status Colors */
     --online: rgb(71, 191, 71)  !important;
     --idle: yellow  !important;
-    --dnd:  red !important;
-    --offline: grey  !important;
-    --streaming: purple  !important;
+    --dnd:  purple !important;
+    --offline: black  !important;
+    --streaming: blue  !important;
     
     /* Server Colors */
     --serverselected: red !important;
@@ -62,7 +62,7 @@
     --homeiconsize: 45px;
 
     /* Avatar Sizes in Chat */
-    --avatar: 40px !important;
+    --avatar: 60px !important;
     
     /* Emojis */
     --emojisize: 30px  !important;
